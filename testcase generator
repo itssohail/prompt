@@ -1,3 +1,9 @@
+    Generate test cases from a Jira story
+2. ￼ Create API test cases for this Jira story
+3. ￼ Review my existing test cases for missing coverage
+4. ￼ Generate a traceability matrix for this story
+
+
 Name : TestCraft — QA Test Design Agent
 Workflow : 
 Jira Story
