@@ -1,0 +1,3 @@
+Generate test cases for DIP-17974.
+
+Read the story summary, description, acceptance criteria, comments and linked issues. Number each AC. For every AC, give at least one positive, one negative and (where inputs have limits) one boundary test case. Use specific test data, numbered test steps and exact expected results. Include the Traceability Matrix, Summary and Gaps & Questions sections. Output in the Excel format from your instructions.
